@@ -1,4 +1,4 @@
-# Composite_CT_Thickness_calculation in Paper:\n https://doi.org/10.1039/D3MH01976D 
+# Composite_CT_Thickness_calculation in Paper: https://doi.org/10.1039/D3MH01976D 
 This is the code for calculating the thickness of CaSO4 domain in the paper.
 
 CT-images dataset: For the access of the data set, please click on the following link: https://drive.google.com/drive/folders/1M4rYcE8KqSGjYIP5dHxOa0G2gUy6G3wt?usp=share_link
