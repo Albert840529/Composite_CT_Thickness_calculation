@@ -1,6 +1,6 @@
 # Composite_CT_Thickness_Calculation
 
-This repository contains code for calculating the thickness of CaSO4 domains as described in the paper: [https://doi.org/10.1039/D3MH01976D](https://doi.org/10.1039/D3MH01976D).
+This repository contains code for calculating the thickness of CaSO4 domains as described in the paper: [Upcycling Plastic Waste into Fully Recyclable Composites through Cold Sintering](https://doi.org/10.1039/D3MH01976D) (DOI: 10.1039/D3MH01976D).
 
 ## Dataset
 
